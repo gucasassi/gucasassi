@@ -2,7 +2,9 @@
 
 I'm Guillem Casas — a passionate **Full Stack Developer** and **DevSecOps Engineer**. I began my career crafting backend systems, but my love for learning quickly pushed me into full stack development with **Node.js**, **Python**, **React** and **Next.js**.
 
-Over time, I discovered a passion for **Cloud Infrastructure**, **Automation**, and **Security** — which naturally led me into the world of **DevSecOps**.
+Over time, I discovered a passion for **Cloud Infrastructure**, **Automation**, and **Security** — which naturally led me into the world of **DevSecOps**. Automation, efficiency, and security are at the heart of everything I do.
+
+When I'm not coding, you’ll find me diving into new tech, tweaking systems to be even better, or thinking about how to make infrastructure faster, safer, and a little bit cooler 🚀.
 
 ### 🧰 Toolbox
 
