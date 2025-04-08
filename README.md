@@ -2,7 +2,7 @@
 
 I'm Guillem Casas — a passionate **Full Stack Developer** and **DevSecOps Engineer**. I began my career crafting backend systems, but my love for learning quickly pushed me into full stack development with **Node.js**, **Python**, **React** and **Next.js**.
 
-Over time, I discovered a passion for **cloud infrastructure**, **automation**, and **security** — which naturally led me into the world of **DevSecOps**.
+Over time, I discovered a passion for **Cloud Infrastructure**, **Automation**, and **Security** — which naturally led me into the world of **DevSecOps**.
 
 ### 🧰 Toolbox
 
@@ -30,11 +30,10 @@ A few certifications that validate my skills and passion for technology:
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bee4eadb-266a-4a37-9673-9be067bb366f/public_url)
 
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bee4eadb-266a-4a37-9673-9be067bb366f/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a24e7eac-60cd-4688-8426-20276ce15050/public_url)
 
 ### 🌟 **Working On**
 
 A few things I'm currently building, improving, or experimenting with:
 
 - **[on-demand-ec2-runner](https://github.com/evners/on-demand-ec2-runner)** – A GitHub Action to dynamically launch and manage EC2 instances as self-hosted runners.
-- **[aws-packer-playwright-ami](https://github.com/evners/aws-packer-playwright-ami)** – Pre-baked AMI to run Playwright tests at scale on EC2 instances.
