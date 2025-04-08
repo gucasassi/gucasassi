@@ -14,7 +14,9 @@ Tools and technologies I use to design, develop, and optimize modern application
 
 🧪 **Testing**: [Jest](https://jestjs.io/), [Playwright](https://playwright.dev/), [Postman](https://www.postman.com/) and [k6](https://k6.io/).
 
-🚀 **Cloud & DevOps**: [AWS](https://aws.amazon.com/), [Terraform](https://www.terraform.io/), [Packer](https://www.packer.io/), [Ansible](https://docs.ansible.com/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/es/).
+🌐 **Cloud & DevOps**: [AWS](https://aws.amazon.com/), [Terraform](https://www.terraform.io/), [Packer](https://www.packer.io/), [Ansible](https://docs.ansible.com/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/es/).
+
+🚀 **CI/CD**: [GitHub Actions](https://github.com/features/actions) and [Azure DevOps](https://azure.microsoft.com/es-es/products/devops).
 
 📈 **Monitoring**: [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/).
 
